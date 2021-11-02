@@ -36,7 +36,7 @@
                       <v-card-text class="mt-12">
                         <h1
                           class="text-center display-2 primary--text text--accent-3"
-                        >Sign in to Diprella</h1>
+                        >Sign in to Aroma</h1>
                         <div class="text-center mt-4">
                           <v-btn class="mx-2" fab color="black" outlined>
                             <v-icon>mdi-facebook</v-icon>
@@ -91,7 +91,7 @@
                   <v-row class="fill-height">
                     <v-col cols="12" md="4" class="primary">
                       <v-card-text class="white--text mt-12">
-                        <h1 class="text-center display-1">Welcome Back!</h1>
+                        <h1 class="text-center display-1 white--text">Welcome Back!</h1>
                         <h5
                           class="text-center"
                         >To Keep connected with us please login with your personnel info</h5>

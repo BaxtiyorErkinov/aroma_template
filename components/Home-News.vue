@@ -28,7 +28,7 @@
 						</div>
 						<div>
 							<v-btn text small class="py-5" :class="hover ? 'primary' : ''">
-								<span>Read More</span>
+								<span :class="hover ? 'white--text' : ''">Read More</span>
 								<v-icon :class="hover ? 'ml-2' : ''">mdi-arrow-right</v-icon>
 							</v-btn>
 						</div>
@@ -58,7 +58,7 @@
 						</div>
 						<div>
 							<v-btn text small class="py-5" :class="hover ? 'primary' : ''">
-								<span>Read More</span>
+								<span :class="hover ? 'white--text' : ''">Read More</span>
 								<v-icon :class="hover ? 'ml-2' : ''">mdi-arrow-right</v-icon>
 							</v-btn>
 						</div>
@@ -88,7 +88,7 @@
 						</div>
 						<div>
 							<v-btn text small class="py-5" :class="hover ? 'primary' : ''">
-								<span>Read More</span>
+								<span :class="hover ? 'white--text' : ''">Read More</span>
 								<v-icon :class="hover ? 'ml-2' : ''">mdi-arrow-right</v-icon>
 							</v-btn>
 						</div>
